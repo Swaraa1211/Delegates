@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 using System.Security.Cryptography.X509Certificates;
-
+//Delegates
 namespace Delegates
 {
     delegate void delegateForSum(int a, int b); //declaring delegate(signature)
